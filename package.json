@@ -1,7 +1,7 @@
 {
-  "name": "nodejs_hello",
+  "name": "express_form",
   "version": "1.0.0",
-  "description": "nodejs express_basic",
+  "description": "nodejs express_form",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uthcst/express_basic.git"
+    "url": "git+https://github.com/uthcst/express_form.git"
   },
   "keywords": [
     "nodejs",
-    "hello"
+    "express forms"
   ],
   "author": "uthcst",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/uthcst/express_basic/issues"
+    "url": "https://github.com/uthcst/express_form/issues"
   },
-  "homepage": "https://github.com/uthcst/express_basic#readme",
+  "homepage": "https://github.com/uthcst/express_form#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "cookie-parser": "^1.4.6",
